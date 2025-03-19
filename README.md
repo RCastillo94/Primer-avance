@@ -1,6 +1,6 @@
 # Primer-avance
 Primer avance 
-'''mermaid
+```mermaid
 flowchart TD
     A[Inicio] --> B{¿Ya tienes cuenta?}
     B -- Sí --> C[Iniciar sesión]
